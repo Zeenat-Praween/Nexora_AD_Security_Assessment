@@ -1,0 +1,13 @@
+timestamp,username,source_ip,event_type,status,failure_reason
+2026-11-20 09:00:00,john,192.0.2.10,Login,Success,None
+2026-11-20 09:10:00,sarah,192.0.2.11,Login,Success,None
+2026-11-20 09:15:00,admin01,192.0.2.50,Login,Failed,Invalid Password
+2026-11-20 09:16:00,admin01,192.0.2.50,Login,Failed,Invalid Password
+2026-11-20 09:17:00,admin01,192.0.2.50,Login,Failed,Invalid Password
+2026-11-20 09:18:00,admin01,192.0.2.50,Login,Success,None
+2026-11-20 09:30:00,michael,192.0.2.12,Login,Success,None
+2026-11-20 23:45:00,david,192.0.2.80,Login,Success,None
+2026-11-20 10:00:00,guest01,192.0.2.90,Login,Failed,Disabled Account
+2026-11-20 10:05:00,emma,192.0.2.13,Login,Success,None
+2026-11-20 10:10:00,admin01,192.0.2.51,Login,Failed,Invalid Password
+2026-11-20 10:11:00,admin01,192.0.2.51,Login,Failed,Invalid Password

@@ -1,0 +1,4 @@
+principal,resource,finding,severity,recommendation
+emma,Finance_Database,Admin-equivalent FullControl permission detected,High,Apply least-privilege access and review the assignment
+alex,Domain_Configuration,Admin-equivalent Modify permission detected,Medium,Validate whether elevated modification access is required
+backup01,Backup_Server,Admin-equivalent FullControl permission detected,High,Apply least-privilege access and review the assignment

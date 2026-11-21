@@ -1,0 +1,9 @@
+principal,resource,permission,is_admin_equivalent,business_justification
+john,Finance_Folder,Read,false,Finance employee access
+sarah,HR_Database,Read,false,HR employee access
+michael,IT_Server,Modify,false,IT maintenance
+david,Sales_Folder,Read,false,Sales employee access
+emma,Finance_Database,FullControl,true,No documented justification
+alex,Domain_Configuration,Modify,true,No documented justification
+robert,Sales_Folder,Modify,false,Sales manager access
+backup01,Backup_Server,FullControl,true,Backup administration

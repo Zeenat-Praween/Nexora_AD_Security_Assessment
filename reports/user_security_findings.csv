@@ -1,0 +1,14 @@
+username,finding,severity,recommendation
+admin01,Privileged account without MFA,High,Review privileged account and enforce MFA
+admin01,Password never expires policy enabled,Medium,Review password expiration policy
+admin01,Password age exceeds 90 days,Medium,Review password security policy
+sarah,Password never expires policy enabled,Medium,Review password expiration policy
+sarah,Password age exceeds 90 days,Medium,Review password security policy
+sarah,Standard account without MFA,Medium,Evaluate MFA deployment
+emma,Standard account without MFA,Medium,Evaluate MFA deployment
+backup01,Privileged account without MFA,High,Review privileged account and enforce MFA
+backup01,Password never expires policy enabled,Medium,Review password expiration policy
+backup01,Password age exceeds 90 days,Medium,Review password security policy
+guest01,Password never expires policy enabled,Medium,Review password expiration policy
+guest01,Password age exceeds 90 days,Medium,Review password security policy
+guest01,Disabled account requires review,Low,Verify account deactivation and retention

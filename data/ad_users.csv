@@ -1,0 +1,11 @@
+username,department,enabled,privileged,password_never_expires,last_password_change_days,mfa_enabled,account_type
+admin01,IT,true,true,true,180,false,Administrator
+john,Finance,true,false,false,45,true,Standard
+sarah,HR,true,false,true,210,false,Standard
+michael,IT,true,false,false,30,true,Standard
+david,Sales,true,false,false,60,true,Standard
+emma,Finance,true,false,false,90,false,Standard
+backup01,IT,true,true,true,250,false,Service
+guest01,General,false,false,true,400,false,Standard
+alex,IT,true,false,false,20,true,Standard
+robert,Sales,true,false,false,75,true,Standard

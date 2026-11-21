@@ -1,0 +1,5 @@
+username,source_ip,finding,details,severity,recommendation
+admin01,192.0.2.50,Repeated failed login attempts,3 failed attempts,High,Review authentication logs and verify account activity
+admin01,192.0.2.50,Successful login after failed login,A successful login followed a failed attempt,Medium,Review the sequence and confirm legitimate access
+david,192.0.2.80,Late-night successful login,2026-11-20 23:45:00,Medium,Verify whether the login matches the user's normal schedule
+guest01,192.0.2.90,Login attempt involving a disabled account,Authentication was rejected for a disabled account,Low,Confirm the account is intentionally disabled
